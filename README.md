@@ -3,7 +3,7 @@ This repository contains the publicly released dataset, code, and models for the
 
 
 ## Citations
-Please consider citing this paper if you use the data:
+Please consider citing this paper as follows:
 ```
 @inproceedings{aggarwaletal2021ecqa,
   title={{E}xplanations for {C}ommonsense{QA}: {N}ew {D}ataset and {M}odels},
