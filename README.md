@@ -1,5 +1,5 @@
 # Explanations for CommonsenseQA: New Dataset and Models
-This repository contains the publicly released dataset, code, and models for the Explanations for CommonsenseQA paper presented at ACL-IJCNLP 2021. Directories ```data``` and  ```code``` inside the root folder contain dataset and code respectively. Same contents are also made available by research partner institute IIT D, [data](https://github.com/dair-iitd/ECQA-Dataset) and [code](https://github.com/dair-iitd/ECQA).
+This repository contains the publicly released dataset, code, and models for the Explanations for CommonsenseQA paper presented at ACL-IJCNLP 2021. Directories ```data``` and  ```code``` inside the root folder contain dataset and code respectively. Same contents are also made available by our research partner institute IIT D, [data](https://github.com/dair-iitd/ECQA-Dataset) and [code](https://github.com/dair-iitd/ECQA).
 
 
 ## Citations
