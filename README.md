@@ -1,2 +1,2 @@
-# ecqa
-This is to open source our annotated dataset called ECQA.
+# Explanations for CommonsenseQA: New Dataset and Models
+This repository contains the publicly released dataset, code, and models for the Explanations for CommonsenseQA paper presented at ACL-IJCNLP 2021. Directories ```data``` and  ```code``` inside the root folder contain dataset and code respectively. Same contents are also available on our research partner institute IIT D git [data](https://github.com/dair-iitd/ECQA-Dataset) and [code](https://github.com/dair-iitd/ECQA).
