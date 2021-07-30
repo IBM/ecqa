@@ -1,5 +1,5 @@
 # Explanations for CommonsenseQA: New Dataset and Models
-This repository contains the publicly released dataset, code, and models for the Explanations for CommonsenseQA paper presented at ACL-IJCNLP 2021. Directories ```data``` and  ```code``` inside the root folder contain dataset and code, respectively. The same [data](https://github.com/dair-iitd/ECQA-Dataset) and [code](https://github.com/dair-iitd/ECQA) are also made available through our collaborating institute IIT Delhi. You can download the full paper from [here](https://aclanthology.org/2021.acl-long.238/).
+This repository contains the publicly released dataset, code, and models for the Explanations for CommonsenseQA paper presented at ACL-IJCNLP 2021. Directories ```data``` and  ```code``` inside the root folder contain dataset and code, respectively. The same [data](https://github.com/dair-iitd/ECQA-Dataset) and [code](https://github.com/dair-iitd/ECQA) are also made available through our AIHN collaboration partner institute IIT Delhi. You can download the full paper from [here](https://aclanthology.org/2021.acl-long.238/).
 
 
 
